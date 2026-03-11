@@ -11,6 +11,8 @@ Repository ini berisi kumpulan tugas mata kuliah **Mobile Application** di **Uni
 * **Dosen Pengampu:** Wahyu Cahyo Utomo, S.Kom, M.Cs
 * **Kelas:** 2B
 * **Kelompok:** 4
+* **Prodi:** Teknik Informatika
+* **Mata Kuliah:** Mobile Application
 
 ---
 
@@ -59,15 +61,10 @@ Aplikasi kalkulator pertama kami menerapkan konsep-konsep tingkat lanjut:
 
 ---
 
-<p align="center">
-<i>Developed with ❤️ by Kelompok 4</i>
-
-
-
-
+<p>
+<i>Developed by Kelompok 4</i>
+<b>2B - Teknik Informatika</b>
 <b>UNP Kediri 2026</b>
 </p>
-
-```
 
 -----
