@@ -46,7 +46,6 @@ Aplikasi kalkulator pertama kami menerapkan konsep-konsep tingkat lanjut:
 ---
 
 ## 🛠️ Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,idea,git&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,idea,git&perline=3)](https://skillicons.dev)
 
 ---
@@ -60,6 +59,9 @@ Aplikasi kalkulator pertama kami menerapkan konsep-konsep tingkat lanjut:
 4. Masukkan ekspresi matematika dan tekan **Enter**.
 
 ---
+
+
+
 
 <p>
 <i>Developed by Kelompok 4</i>
