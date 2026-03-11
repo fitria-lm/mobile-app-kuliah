@@ -19,7 +19,7 @@ Repository ini berisi kumpulan tugas mata kuliah **Mobile Application** di **Uni
 ## 👥 Anggota Kelompok
 | No | Foto | Nama | NPM | Peran |
 |---|---|---|---|---|
-| 1 | <img src="https://github.com/yearum.png" width="50"> | **Nenglia Fitria Samrotul Ma'rifah** | 2413020118 | Developer |
+| 1 | <img src="https://github.com/yearum.png" width="50"> | **Nenglia Fitri Samrotul Ma'rifah** | 2413020118 | Developer |
 | 2 | <img src="https://github.com/github.png" width="50"> | **Ahmadeka Zizou Entaru** | 2413020122 | Developer |
 | 3 | <img src="https://github.com/fitria-lm.png" width="50"> | **Fitria Lukluul Maknun** | 2413020125 | Developer |
 
