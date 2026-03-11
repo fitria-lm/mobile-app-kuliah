@@ -63,8 +63,8 @@ Aplikasi kalkulator pertama kami menerapkan konsep-konsep tingkat lanjut:
 
 <p>
 <i>Developed by Kelompok 4</i>
-<b>2B - Teknik Informatika</b>
-<b>UNP Kediri 2026</b>
+<br>2B - Teknik Informatika
+<br><b>UNP Kediri 2026</b>
 </p>
 
 -----
