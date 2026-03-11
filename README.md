@@ -41,8 +41,8 @@ Berikut adalah daftar tugas yang telah dan akan dikerjakan:
 [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 [![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://git-scm.com/)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
 
 ---
