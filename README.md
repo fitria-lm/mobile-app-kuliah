@@ -36,15 +36,6 @@ Berikut adalah daftar tugas yang telah dan akan dikerjakan:
 
 ---
 
-## 🚀 Fitur Utama (Tugas 1: Calculator)
-Aplikasi kalkulator pertama kami menerapkan konsep-konsep tingkat lanjut:
-- [x] **Object Oriented Programming (OOP)**
-- [x] **Logika Kabataku:** Mendahulukan perkalian & pembagian.
-- [x] **String Parsing:** Input operasi langsung dalam satu baris (e.g. `15*2/2-7*2`).
-- [x] **Clean Code:** Pemisahan logic dan interface.
-
----
-
 ## 🛠️ Tech Stack & Tools
 <!-- [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/) [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio) [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/) [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) -->
 [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
