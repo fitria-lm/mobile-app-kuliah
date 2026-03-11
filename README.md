@@ -1,6 +1,6 @@
 # 📱 Mobile Application Projects - Kelompok 4
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Universitas+Nusantara+PGRI+Kediri;Mobile+App+Development;Kotlin+Programming;Kelompok+4+-+Kelas+2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Mobile+Application;Kotlin+Programming;Kelompok+4+-+Kelas+2B;Universitas+Nusantara+PGRI+Kediri" alt="Typing SVG" />
 </p>
 
 ---
@@ -41,7 +41,8 @@ Berikut adalah daftar tugas yang telah dan akan dikerjakan:
 [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 [![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://code.visualstudio.com/)
 
 
 ---
