@@ -1,6 +1,6 @@
 # 📱 Mobile Application Projects - Kelompok 4
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Mobile+Application;Kotlin+Programming;Kelompok+4+-+Kelas+2B;Universitas+Nusantara+PGRI+Kediri" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Mobile+Application;Kotlin+Programming;Kelompok+4+-+Kelas+2B;Teknik+Informatika;Universitas+Nusantara+PGRI+Kediri" alt="Typing SVG" />
 </p>
 
 ---
