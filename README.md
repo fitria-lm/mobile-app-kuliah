@@ -46,7 +46,13 @@ Aplikasi kalkulator pertama kami menerapkan konsep-konsep tingkat lanjut:
 ---
 
 ## 🛠️ Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,idea,git&perline=8)](https://skillicons.dev)
+## 🛠️ Tech Stack & Tools
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/) [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio) [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/) [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,idea,git)](https://kotlinlang.org/)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
+[![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+
 
 ---
 
