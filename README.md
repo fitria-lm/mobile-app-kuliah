@@ -9,8 +9,8 @@
 Repository ini berisi kumpulan tugas mata kuliah **Mobile Application** di **Universitas Nusantara PGRI Kediri**. Kami fokus pada pengembangan aplikasi Android menggunakan **Kotlin**.
 
 * **Dosen Pengampu:** Wahyu Cahyo Utomo, S.Kom, M.Cs
-* **Kelas:** 2B
 * **Kelompok:** 4
+* **Kelas:** 2B
 * **Prodi:** Teknik Informatika
 * **Mata Kuliah:** Mobile Application
 
